@@ -1,0 +1,2 @@
+# guru
+my python project
